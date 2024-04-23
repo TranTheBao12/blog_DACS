@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\blog_DACS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\Models\\BlogcanhannContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blog_DACS\\Models\\BlogcanhannContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\source\\repos\\blog_dacs\\blog_dacs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,6 +31,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BlogcanhannContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\Models\\BlogcanhannContext.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Models\\BlogcanhannContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\Models\\BlogcanhannContext.cs",
+              "RelativeToolTip": "blog_DACS\\Models\\BlogcanhannContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:03:04.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "blog_DACS\\Views\\Home\\Index.cshtml",
@@ -39,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "blog_DACS\\Views\\Shared\\_Layout.cshtml",
@@ -49,10 +70,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-23T04:52:18.358Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
