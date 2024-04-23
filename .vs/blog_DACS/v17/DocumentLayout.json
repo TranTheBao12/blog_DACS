@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\blog_DACS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\source\\repos\\blog_dacs\\blog_dacs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\source\\repos\\blog_dacs\\blog_dacs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T04:52:48.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAALUAAAAAAAAAAAAwwNUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T04:52:18.358Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

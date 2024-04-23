@@ -1,0 +1,497 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\blog_DACS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\blog_DACS.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\fontawesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\fontawesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\fontawesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\fontawesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\ionicons\\cheatsheet.html",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\cheatsheet.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\ionicons\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\css\\ionicons.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\big_image_1.jpg",
+      "PackagePath": "staticwebassets\\images\\big_image_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\big_image_3.jpg",
+      "PackagePath": "staticwebassets\\images\\big_image_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\img_1.jpg",
+      "PackagePath": "staticwebassets\\images\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\img_10.jpg",
+      "PackagePath": "staticwebassets\\images\\img_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\img_11.jpg",
+      "PackagePath": "staticwebassets\\images\\img_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\img_12.jpg",
+      "PackagePath": "staticwebassets\\images\\img_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\img_2.jpg",
+      "PackagePath": "staticwebassets\\images\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\img_3.jpg",
+      "PackagePath": "staticwebassets\\images\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\img_4.jpg",
+      "PackagePath": "staticwebassets\\images\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\img_5.jpg",
+      "PackagePath": "staticwebassets\\images\\img_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\img_6.jpg",
+      "PackagePath": "staticwebassets\\images\\img_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\img_7.jpg",
+      "PackagePath": "staticwebassets\\images\\img_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\img_8.jpg",
+      "PackagePath": "staticwebassets\\images\\img_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\img_9.jpg",
+      "PackagePath": "staticwebassets\\images\\img_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\person_5.jpg",
+      "PackagePath": "staticwebassets\\images\\person_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\person_6.jpg",
+      "PackagePath": "staticwebassets\\images\\person_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\person_testimonial_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_testimonial_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\images\\photography.png",
+      "PackagePath": "staticwebassets\\images\\photography.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\js\\jquery-migrate-3.0.0.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.0.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\wwwroot\\prepros-6.config",
+      "PackagePath": "staticwebassets\\prepros-6.config"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.blog_DACS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.blog_DACS.props",
+      "PackagePath": "build\\blog_DACS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.blog_DACS.props",
+      "PackagePath": "buildMultiTargeting\\blog_DACS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.blog_DACS.props",
+      "PackagePath": "buildTransitive\\blog_DACS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
