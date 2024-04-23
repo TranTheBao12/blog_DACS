@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("blog_DACS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dbbbc253851339ab7c49768a80e4678c03c4c5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0390b4c4f9af1c4f9c8339fd389c2dae070c5a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("blog_DACS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("blog_DACS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

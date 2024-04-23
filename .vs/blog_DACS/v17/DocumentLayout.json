@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\blog_DACS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\blog_DACS\\blog_DACS\\Models\\BlogcanhannContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blog_DACS\\Models\\BlogcanhannContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\source\\repos\\blog_dacs\\blog_dacs\\models\\blogcanhanncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\models\\blogcanhanncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\source\\repos\\blog_dacs\\blog_dacs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -42,10 +46,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
@@ -55,8 +55,7 @@
               "RelativeToolTip": "blog_DACS\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAACbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T04:52:48.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:52:48.061Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "blog_DACS\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAALUAAAAAAAAAAAAwwNUAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T04:52:18.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T04:52:18.358Z"
             }
           ]
         }
