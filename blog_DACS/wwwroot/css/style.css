@@ -1147,14 +1147,14 @@ textarea.form-control {
   background: #212121;
   background: #510bc4;
   width: inherit;
-  min-width: 300px;
+  min-width: 200px;
   border: none;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
   -webkit-box-shadow: none;
   box-shadow: none;
-  padding: 4px 30px 4px 15px;
+  padding: 4px 5px 4px 15px;
   font-size: 16px; }
   .search-top input::-webkit-input-placeholder {
     color: #fff; }
